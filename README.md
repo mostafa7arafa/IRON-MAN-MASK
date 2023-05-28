@@ -21,4 +21,4 @@ If you wish to customize the appearance of the mask, you can modify the code acc
 
 ## Acknowledgments
 
-Special thanks to the "Codzilla" YouTube channel for their tutorial video on drawing Iron Man's mask with turtle graphics. The video served as a helpful guide in developing this code. You can find the tutorial video (https://www.youtube.com/watch?v=XK4PMXb056&pp=ygUIY29kemlsbGE%3D).
+Special thanks to the "Codzilla" YouTube channel for their tutorial video on drawing Iron Man's mask with turtle graphics. The video served as a helpful guide in developing this code. You can find the tutorial video (https://youtu.be/XK4PMXb056c).
